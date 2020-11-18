@@ -1,0 +1,22 @@
+/* 全局CSS样式 */
+html,
+body,
+#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.el-card{
+    margin-bottom: 20px;
+}
+.el-select {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.el-dropdown-menu{
+    text-align: center;
+    width: 60%;
+}
+.el-input-group__append {
+    text-align: center;
+}
